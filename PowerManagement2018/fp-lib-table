@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name PowerManagementBoard)(type KiCad)(uri ${KIPRJMOD}/PowerManagementBoard.pretty)(options "")(descr ""))
   (lib (name SOAR_Kicad_Library-master)(type KiCad)(uri ${KIPRJMOD}/SOAR_Kicad_Library-master)(options "")(descr ""))
+  (lib (name New_Library)(type KiCad)(uri ${KIPRJMOD}/New_Library.pretty)(options "")(descr ""))
 )
